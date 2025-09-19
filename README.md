@@ -33,6 +33,10 @@ Este projeto não só aprimorou minhas habilidades em Python e Pygame, mas tamb�
 - **Python**
 - **Pygame**
 
+
+https://github.com/user-attachments/assets/2aff3d28-8585-46ac-9844-575d17575ca1
+
+
 ## ✍️ Autor
 
 - **Michelli Canals** - https://www.linkedin.com/in/michelli-canals-09748712b/
