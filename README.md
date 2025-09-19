@@ -32,9 +32,8 @@ Este projeto não só aprimorou minhas habilidades em Python e Pygame, mas tamb�
 
 - **Python**
 - **Pygame**
-
-
-https://github.com/user-attachments/assets/2aff3d28-8585-46ac-9844-575d17575ca1
+  
+![Jogosnakepython2025-09-1916-11-00-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/05478eeb-42bf-48a6-a98a-dbd90d9fc57f)
 
 
 ## ✍️ Autor
