@@ -1,7 +1,5 @@
 # 🐍 Jogo da Cobrinha (Snake) 🎮
 
-Este repositório contém um projeto do jogo clássico da cobrinha, criado como um exercício prático para aprofundar conhecimentos em Python e no desenvolvimento de jogos com a biblioteca Pygame.
-
 ## 🚀 Como Executar o Projeto
 
 1.  **Pré-requisitos:** Certifique-se de ter o Python instalado.
