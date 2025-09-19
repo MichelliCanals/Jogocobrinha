@@ -39,4 +39,4 @@ Este projeto não só aprimorou minhas habilidades em Python e Pygame, mas tamb�
 
 ## 📄 Licença
 
-Este projeto está sob a licença 
+Este projeto está sob a licença MIT License
